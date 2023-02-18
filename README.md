@@ -1,4 +1,4 @@
-<img src="https://cdn.dribbble.com/users/660265/screenshots/2945287/frontend_dribbble.gif" alt="coding" width='100%'>
+<img src="https://cdn.dribbble.com/users/660265/screenshots/2945287/frontend_dribbble.gif" alt="coding" height='600' width='100%'>
 
 <h1 align="center">Hi 👋, I'm Afsarjahan Ansari</h1>
 <h3 align="center"> PASSIONATE ABOUT LEARNING AND IMPLEMENTING NEW TEXCHNOLOGIES </h3>
@@ -20,10 +20,11 @@
 <br/>
 <hr/>
 <br/>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=afsach&show_icons=true&theme=tokyonight&locale=en" alt="afsach" /></p>
-<br/><hr/><hr/><hr/>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=afsach&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="afsach" /></p><br/><hr/>
-<hr/><hr/>
+
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=afsach&theme=tokyonight" alt="afsach" /></p>
 <br/>
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=afsach&show_icons=true&theme=tokyonight&locale=en" alt="afsach" /></p>
+<br/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=afsach&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="afsach" /></p><br/>
 
