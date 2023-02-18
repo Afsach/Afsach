@@ -1,4 +1,4 @@
-<img src="https://media.istockphoto.com/id/1421200511/vector/conceptual-illustration-of-web-programming-conceptual-illustration-of-front-end-back-end-and.jpg?s=612x612&w=0&k=20&c=5EZpczkKgP3f8o7zkXusHg8QXFwfzwz7nJx5rbt0OTI=" alt="coding" height='550' width='100%'>
+<img src="https://cdn.dribbble.com/users/3594357/screenshots/6496386/dribble-shot.gif" alt="coding" height='500' width='100%'>
 
 <h1 align="center">Hi 👋, I'm Afsarjahan Ansari</h1>
 <h3 align="center"> PASSIONATE ABOUT LEARNING AND IMPLEMENTING NEW TEXCHNOLOGIES </h3>
