@@ -23,8 +23,8 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=afsach&theme=tokyonight" alt="afsach" /></p>
 <br/>
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=afsach&show_icons=true&theme=tokyonight&locale=en" alt="afsach" /></p>
-<br/>
+<hr/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=afsach&show_icons=true&theme=tokyonight&locale=en" alt="afsach" /></p>
+<br/><hr/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=afsach&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="afsach" /></p><br/>
 
