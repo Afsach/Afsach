@@ -20,7 +20,7 @@
 <br/>
 <hr/>
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=afsach&show_icons=true&theme=tokyonight&locale=en" alt="afsach" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=afsach&show_icons=true&theme=tokyonight&locale=en" alt="afsach" /></p> -->
 <br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afsach&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="afsach" /></p><br/>
