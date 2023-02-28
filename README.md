@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Afsarjahan Ansari</h1>
 <h3 align="center"> PASSIONATE ABOUT LEARNING AND IMPLEMENTING NEW TEXCHNOLOGIES </h3>
-<img align="right" src="https://cdn.dribbble.com/users/1314475/screenshots/3031368/me.gif" width="400" alt="coding">
+<!-- <img align="right" src="https://cdn.dribbble.com/users/1314475/screenshots/3031368/me.gif" width="400" alt="coding"> -->
 
 
 - 💬 Ask me about **react, java**
@@ -20,7 +20,7 @@
 <br/>
 <hr/>
 <br/>
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=afsach&show_icons=true&theme=tokyonight&locale=en" alt="afsach" /></p> -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=afsach&show_icons=true&theme=tokyonight&locale=en" alt="afsach" /></p>
 <br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afsach&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="afsach" /></p><br/>
